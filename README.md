@@ -62,13 +62,13 @@ orchestration, and many other IT processes.It is free to use, and the project be
 
 10. Try to connect a slaves machines.
     
-          ansible-playbook -i slaves.txt -m ping
+          ansible all -i slaves.txt -m ping
     
     ![Alt text](masslave/18.png)
 
 12. If you face any error, just change on your ansible configuration
-
-          host_key_checking = False
+    > ! Change the True
+    > host_key_checking = False
 
     ![Alt text](masslave/19.png)
 
@@ -76,5 +76,5 @@ orchestration, and many other IT processes.It is free to use, and the project be
 
     ![Alt text](masslave/20.png)
 
-Thank you............
+>                                                 Thank you............
    
