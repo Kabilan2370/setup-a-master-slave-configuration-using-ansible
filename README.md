@@ -60,8 +60,7 @@ orchestration, and many other IT processes.It is free to use, and the project be
 11. In ansible if we want to connect a save machine, should have a ansible configuration file.
    Using the command to download.
 
-         wget https://gist.githubusercontent.com/alivx/2a4ca3e577ead4bd38d247c258e6513b/raw/fe2b9b1c7abc2b52cc6998525718c9a40c7e02a5/ansible.cfg
-
+         wget https://gist.github.com/wbcurry/f38bc6d8d1ee4a70ee2c
    ![Alt text](masslave/16.png)
    
    ![Alt text](masslave/17.png)
